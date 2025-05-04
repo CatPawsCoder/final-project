@@ -1,0 +1,10 @@
+vk_api
+telethon
+requests
+transformers
+torch
+pandas
+nltk
+pymorphy2
+scikit-learn
+tqdm
